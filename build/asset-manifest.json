@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.187606f9.css",
+    "main.js": "/static/js/main.a5c073ef.js",
+    "static/media/PARTIDO.JPEG": "/static/media/PARTIDO.64146dd48adb03915562.JPEG",
+    "static/media/logo-laliga.jpg": "/static/media/logo-laliga.a1c102d2b2f667dabe8f.jpg",
+    "static/media/Deportivo-Alavés.png": "/static/media/Deportivo-Alavés.e5f09915662c610dbbc4.png",
+    "index.html": "/index.html",
+    "main.187606f9.css.map": "/static/css/main.187606f9.css.map",
+    "main.a5c073ef.js.map": "/static/js/main.a5c073ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.187606f9.css",
+    "static/js/main.a5c073ef.js"
+  ]
+}
