@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.team-logos {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  position: absolute;
+  top: 20%; /* Ajusta la posición vertical de los escudos */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+
+.team-logo {
+  width: 50px; /* Ajusta el tamaño del escudo según sea necesario */
+  height: auto;
+}
+
+.video-preview {
+  position: relative;
+  cursor: pointer;
+  margin-bottom: 30px; /* Añade espacio entre los elementos de video */
+}
